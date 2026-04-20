@@ -1,6 +1,8 @@
 # Hola soy Enrique Lima Rivera
 
 🎓Soy Ingeníero en Sistemas Computacionales
+🎓 Ing. en Sistemas Computacionales — Egresando 2026
+
 📍Estado de México
 💼 Buscando oportunidades en Desarrollo Backend / Fullstack
 
@@ -34,6 +36,5 @@
 ---
 
 ## 📬 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/enrique-lima-rivera-95543636b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-lima-rivera-95543636b)
 ✉️ enriquelimauv@gmail.com
