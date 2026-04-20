@@ -1,7 +1,6 @@
 # Hola soy Enrique Lima Rivera
 
 🎓Soy Ingeníero en Sistemas Computacionales
-🎓 Ing. en Sistemas Computacionales — Egresando 2026
 
 📍Estado de México
 💼 Buscando oportunidades en Desarrollo Backend / Fullstack
